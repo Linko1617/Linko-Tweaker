@@ -1,6 +1,3 @@
 # Linko-Tweaker
 
-a v20 desativa os servicos do xbox
-se tiver gamepass ou outras coisas do xbox
-use somente o .bat
-ate eu resolver isso
+e um projeto meu de alguns anos atras so por hobby mas hj em dia ta crescendo muito
