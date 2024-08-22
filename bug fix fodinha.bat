@@ -1,0 +1,1 @@
+sc config "wuauserv" start= enabled
